@@ -1,5 +1,5 @@
 // At the top of the liri.js file, write the code you need to grab the data from keys.js. Then store the keys in a variable.
-// var keys = require("keys.js");
+var keys = require("./keys.js");
 // Make it so liri.js can take in one of the following commands:
 
 // my-tweets
